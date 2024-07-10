@@ -1,0 +1,8 @@
+.lesson04-component {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
